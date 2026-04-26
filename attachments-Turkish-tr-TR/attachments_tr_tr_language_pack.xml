@@ -54,6 +54,13 @@
       <filename>tr-TR.plg_editors-xtd_insert_attachments_token.sys.ini</filename>
    </files>
 
+    <!-- Attachments insert attachment id token editor button language files -->
+    <files folder="insert_attachments_id_token_btn_plugin" target="plugins/editors-xtd/insert_attachments_id_token/language/tr-TR">
+      <filename>index.html</filename>
+      <filename>tr-TR.plg_editors-xtd_insert_attachments_id_token.ini</filename>
+   </files>
+
+
     <!-- Attachments show attachment in editor plugin language files -->
     <files folder="show_attachments_in_editor_plugin" target="plugins/system/show_attachments/language/tr-TR">
       <filename>index.html</filename>
@@ -95,7 +102,7 @@
   </fileset>
 
   <updateservers>
-       <server type="extension" priority="1" name="Attachments Turkish (tr-TR) Language Pack Updates">http://jmcameron.net/attachments/updates/translations/Turkish-tr-TR/updates.xml</server>
+       <server type="extension" priority="1" name="Attachments Swedish (sv-SE) Language Pack Updates">https://raw.githubusercontent.com/jmcameron/attachments_translations/master/attachments-Turkish-tr-TR/update_pkg.xml</server>
   </updateservers>
 
 </extension>
