@@ -104,7 +104,7 @@
   </fileset>
 
   <updateservers>
-       <server type="extension" priority="1" name="Attachments Spanish (es-ES) Language Pack Updates">http://jmcameron.net/attachments/updates/translations/Spanish-es-ES/updates.xml</server>
+       <server type="extension" priority="1" name="Attachments Spanish (es-ES) Language Pack Updates">https://raw.githubusercontent.com/jmcameron/attachments_translations/master/attachments-Spanish-es-ES/update_pkg.xml</server>
   </updateservers>
 
 </extension>
